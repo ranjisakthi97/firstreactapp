@@ -1,19 +1,14 @@
 {
-    "items" : [
-        {
-            "id": 1,
-            "checked": false,
-            "item": "Visit marina beach"
-        },
-        {
-            "id": 2,
-            "checked": true,
-            "item": "Visit ecr"
-        },
-        {
-            "id": 3,
-            "checked": false,
-            "item": "OMR food street"
-        }
-    ]
+  "items": [
+    {
+      "id": 3,
+      "checked": true,
+      "item": "OMR food street"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "item": "git"
+    }
+  ]
 }
